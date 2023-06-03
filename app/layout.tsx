@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "题解助手",
-  description: "你的私人题解助手。",
+  title: "小商助手",
+  description: "使用openai内核的的智能助手。",
   appleWebApp: {
-    title: "开始搜索",
+    title: "小商助手",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",

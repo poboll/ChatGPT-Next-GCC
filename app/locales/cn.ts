@@ -147,7 +147,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "请输入题目。",
+    BotHello: "你好，有什么我可以帮助你的吗？",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
